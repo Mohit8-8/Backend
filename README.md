@@ -1,4 +1,4 @@
-# BACKEND
+# Backend Dev
 
 🚀 This repository is dedicated to my journey of learning **Backend Development** using the **MERN stack (MongoDB, Express, React, Node.js)**.  
 Here, I’ll be sharing my notes, code samples, mini-projects, and experiments as I master the backend!
