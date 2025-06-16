@@ -27,8 +27,6 @@ Here, I’ll be sharing my notes, code samples, mini-projects, and experiments a
 
 ## 🚀 How to run the code
 
-> 📝 Each project or file will have its own `README.md` (coming soon). But here’s a general idea:
-
 1️⃣ Clone the repo:
 `git clone https://github.com/Mohit8-8/BACKEND.git`
 
