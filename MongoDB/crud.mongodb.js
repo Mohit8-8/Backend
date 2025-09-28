@@ -20,7 +20,7 @@ db.course.insertMany([
   { name: "James Wright", age: 20, assignment: 9 },
 ]);
 
-find - read
+//find - read
 let a = db.course.find({assignment:12})
 
 console.log(a)
